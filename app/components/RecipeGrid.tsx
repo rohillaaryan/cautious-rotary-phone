@@ -38,4 +38,4 @@ export default function RecipeGrid({ recipes }: { recipes: Recipe[] }) {
       )}
     </>
   );
-}
+} // this is just for the commit

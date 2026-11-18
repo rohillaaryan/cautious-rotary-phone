@@ -13,4 +13,4 @@ export default function RecipeCard({ recipe }: { recipe: Recipe }) {
       </div>
     </div>
   );
-}
+} // this is just for the commit

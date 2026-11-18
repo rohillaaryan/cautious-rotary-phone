@@ -19,4 +19,4 @@ export default function NavBar() {
       </nav>
     </header>
   );
-}
+} // this is just for the commit
